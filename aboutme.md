@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Personal Life Philosophy
+cover-img: /assets/img/68_happinessv1_thumb.jpeg
 ---
 
 I love happiness, freedom, loyalty to my family. 
