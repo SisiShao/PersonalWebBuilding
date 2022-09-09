@@ -2,7 +2,7 @@
 layout: post
 title: About Me
 subtitle: Personal Academic Journey
-cover-img: Winnie2.jpg
+cover-img: /assets/img/Winnie2.jpg
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 #tags: [test]
