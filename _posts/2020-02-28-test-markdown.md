@@ -11,7 +11,7 @@ Hello! My name is Sisi. I was born in Shanghai but immigrated to the States with
 
 **The Best Little Brother**
 
-![Winnie]("winnie.JPG"){: .mx-auto.d-block :}
+![Winnie](winnie.JPG){: .mx-auto.d-block :}
 
 
 
