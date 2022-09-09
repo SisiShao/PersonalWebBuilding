@@ -12,5 +12,4 @@ I love happiness, freedom, loyalty to my family.
 
 
 ### My Happiness Recommendation
-
-I think the course taught by Author Brooks, a Harvard professor, avaialble freely on edX  [managing happiness](https://www.edx.org/course/managing-happiness) **enlightened** me a lot on how to manage happiness. If you are interested in this topic, check it out!
+**Managing Happiness** taught by Author Brooks, a Harvard professor, avaialble freely on [edX](https://www.edx.org/course/managing-happiness) **has enlightened** me a lot on how to manage happiness. If you are interested in this topic, check it out!
