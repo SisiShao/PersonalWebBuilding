@@ -12,35 +12,10 @@ Hello! My name is Sisi. I was born in Shanghai but immigrated to the States with
 **The Best Little Brother**
 
 ![Winnie](winnie.JPG){: .mx-auto.d-block :}
+![Winnie2](winnie2.JPG){: .mx-auto.d-block :}
 
 
 
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
 
 ## Boxes
 You can add notification, warning and error boxes like this:
