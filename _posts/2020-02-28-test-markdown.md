@@ -11,11 +11,9 @@ Hello! My name is Sisi. I was born in Shanghai but immigrated to the States with
 
 **The Best Little Brother**
 
-![Winnie]()
+![Winnie]("/assets/img/winnie.JPG"){: .mx-auto.d-block :}
 
-It can also be centered!
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
 Here's a code chunk:
 
